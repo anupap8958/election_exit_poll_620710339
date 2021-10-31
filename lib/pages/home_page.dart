@@ -154,7 +154,7 @@ class _HomePageState extends State<HomePage> {
           style: OutlinedButton.styleFrom(
             backgroundColor: Colors.purple,
           ),
-          child: Text('ดูผล', style: Theme.of(context).textTheme.bodyText2),
+          child: Text('ดูผล'),
         ),
         body: Container(
             decoration: BoxDecoration(
